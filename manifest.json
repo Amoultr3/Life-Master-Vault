@@ -1,9 +1,0 @@
-{
-"name":"Textbook Tracker",
-"short_name":"Textbooks",
-"start_url":"./",
-"display":"standalone",
-"background_color":"#f4f6f8",
-"theme_color":"#1f4e78",
-"icons":[]
-}
